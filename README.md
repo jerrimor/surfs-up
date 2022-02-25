@@ -5,12 +5,9 @@ This project is to determine the feasibility of opening up a surf and shake shop
 
 ## Results
 The statistics for the challenge, in June and December, are listed below.  
+![A6A3D975-251E-4D72-9D6A-C827D288A3E1](https://user-images.githubusercontent.com/96222437/155810379-429671e1-0cf2-4e36-a055-8a2ec20c0bda.jpeg)
 
-![700BF15C-0FB4-4C6F-A2C7-BEEB6F14F41A_4_5005_c](https://user-images.githubusercontent.com/96222437/155804088-48246f1d-e83c-4acc-a103-bb114c0b3826.jpeg)
-
-
-![F416027E-1E35-4922-8954-6B067451E713](https://user-images.githubusercontent.com/96222437/155804110-64a71481-ceaa-4019-869d-4c162d7b0ac0.jpeg)
-
+![7FC44C2A-FC4A-421C-93DE-93D0F4001970](https://user-images.githubusercontent.com/96222437/155810396-3df9ce0c-211a-40a0-928a-35763fd288d5.jpeg)
 
 Three key differences in weather between June and December are
 1. The minimum temperature between the two months is quite different.  The minimun in June is 64 while the minimum in December is 56.  That difference of eight degrees is significant as the analysis is to understand whether or not people would want ice cream and/or to be in the ocean to surf.  There is a decent gap between the two however a minimum of 56 is not detrimental to an environment for surfing. 
@@ -19,4 +16,4 @@ Three key differences in weather between June and December are
 
 
 ## Overview
-The weather on Oahu is mild with temperatures in the low 70's in both winter and summer.  The temperature remains consistently warm which is important for a business who wants their customers to be in need of something cool, like ice cream and to hope their customers feel warm enough to be in the water to surf. 
+The weather on Oahu is mild with temperatures in the low 70's in both winter and summer.  The temperature remains consistently warm which is important for a business who wants their customers to be in need of something cool, like ice cream and to hope their customers feel warm enough to be in the water to surf. Mr. Avy, the investor, should feel confident that the warmth in both summer and winter could help sustain the success of his business. The precipitation analysis completed in the module along with this challenge information on temperature should solidify Oahu as a great location for this type of shop.  
